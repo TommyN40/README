@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-    <title>Tommy Nguyen - C++ Developer</title>
-</head>
-
 <body>
     <h1>🙋🏻‍♀️ Introducing Myself</h1>
     <p>
