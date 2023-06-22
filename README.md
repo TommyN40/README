@@ -12,17 +12,14 @@
         performance. With expertise in query optimization, database design, data modeling, and data analysis, I'm
         passionate about helping businesses make sense of their data.
     </p>
-        <h1>🙋🏻‍♀️ Introducing Myself</h1>
+        <h1>📚 Projects</h1>
     <p>
         Welcome to my portfolio, where I showcase my <a href="url">projects</a>.
-
     </p>
 
-    <h2>📚 Projects</h2>
-    <p>Welcome to my portfolio, where I showcase my <a href="url">projects</a>.</p>
-
-    <h2>🛠️ Tools</h2>
-    <ul>
+            <h1>🛠️ Tools</h1>
+    <p>
+            <ul>
         <li>C++ Development: Visual Studio, Xcode, Eclipse</li>
         <li>Version Control: Git, SVN</li>
         <li>Build Systems: CMake, Makefile</li>
@@ -30,6 +27,8 @@
         <li>Testing: Google Test, Catch2</li>
         <li>IDEs: Visual Studio Code, CLion, Qt Creator</li>
     </ul>
+    </p>
+
 </body>
 
 </html>
