@@ -2,7 +2,7 @@
 <html>
     <h1>🙋🏻‍♂️ Introducing Myself</h1>
     <p>
-        I'm Tommy Nguyen, a skilled C++ developer with a strong focus on software engineering.I have leveraged my expertise to design and implement           efficient and robust C++ applications. I have
+        I'm Tommy Nguyen, a skilled C++ developer with a strong focus on software engineering. I have leveraged my expertise to design and implement           efficient and robust C++ applications. I have
         developed numerous software solutions, applying object-oriented principles and utilizing the power of C++ to
         deliver high-performance systems. Additionally, I have a proven track record of improving code readability and
         maintainability through clean coding practices and comprehensive documentation. With my in-depth understanding
