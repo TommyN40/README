@@ -34,8 +34,8 @@
         <li>SQL/HTML: MySQL, SQLite, SQL Server</li>
 </ul>
 
-    <h1>🧠 Skills</h1>
-    <ul>
+<h1>🧠 Skills</h1>
+<ul>
         <li>Collaboration</li>
         <li>Teamwork</li>
         <li>Problem Solving</li>
@@ -43,4 +43,5 @@
         <li>Communication</li>
         <li>Adaptability</li>
 </ul>
+
 </html>
