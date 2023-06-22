@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
     <h1>🙋🏻‍♀️ Introducing Myself</h1>
     <p>
         I'm Tommy Nguyen, a skilled C++ developer with a strong focus on software engineering. As a C++ consultant at
@@ -20,17 +17,6 @@
 
             <h1>🛠️ Tools</h1>
     <p>
-        C++ Development: Visual Studio, Xcode, Eclipse
-    </p>
-
-
-
-
-
-
-
-            <h1>🛠️ Tools</h1>
-    <p>
         <li>C++ Development: Visual Studio, Xcode, Eclipse</li>
         <li>Version Control: Git, SVN</li>
         <li>Build Systems: CMake, Makefile</li>
@@ -38,5 +24,3 @@
         <li>Testing: Google Test, Catch2</li>
         <li>IDEs: Visual Studio Code, CLion, Qt Creator</li>
     </p>
-</body>
-</html>
