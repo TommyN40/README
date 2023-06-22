@@ -12,7 +12,7 @@
     </p>
         <h1>📚 Projects</h1>
     <p>
-        Welcome to my portfolio, where I showcase my <a href="url">projects</a>.
+        Welcome to my portfolio, where I showcase my <a href="https://github.com/TommyN40/Portfolio-Guide">projects</a>.
     </p>
 
 
