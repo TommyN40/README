@@ -17,6 +17,18 @@
         Welcome to my portfolio, where I showcase my <a href="url">projects</a>.
     </p>
 
+
+            <h1>🛠️ Tools</h1>
+    <p>
+        <li>C++ Development: Visual Studio, Xcode, Eclipse</li>
+    </p>
+
+
+
+
+
+
+
             <h1>🛠️ Tools</h1>
     <p>
         <li>C++ Development: Visual Studio, Xcode, Eclipse</li>
