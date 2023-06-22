@@ -1,5 +1,4 @@
     <h1>🙋🏻‍♀️ Introducing Myself</h1>
-    <p>
         I'm Tommy Nguyen, a skilled C++ developer with a strong focus on software engineering. As a C++ consultant at
         DataLemur, I have leveraged my expertise to design and implement efficient and robust C++ applications. I have
         developed numerous software solutions, applying object-oriented principles and utilizing the power of C++ to
@@ -8,10 +7,9 @@
         of C++ and its libraries, I excel in tackling complex programming challenges and optimizing code for optimal
         performance. With expertise in query optimization, database design, data modeling, and data analysis, I'm
         passionate about helping businesses make sense of their data.
-    </p>
 
     <h1>📚 Projects</12>
-    <p>Welcome to my portfolio, where I showcase my [projects](url).</p>
+    Welcome to my portfolio, where I showcase my [projects](url).
 
     <h1>🛠️ Tools</h1>
         <li>C++ Development: Visual Studio, Xcode, Eclipse</li>
