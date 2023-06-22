@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <h1>🙋🏻‍♀️ Introducing Myself</h1>
+    <h1>🙋🏻‍♂️ Introducing Myself</h1>
     <p>
         I'm Tommy Nguyen, a skilled C++ developer with a strong focus on software engineering. As a C++ consultant at
         DataLemur, I have leveraged my expertise to design and implement efficient and robust C++ applications. I have
