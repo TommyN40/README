@@ -26,4 +26,21 @@
     <li>IDEs: Visual Studio Code, CLion, Qt Creator</li>
 </ul>
 
+<h1>💻 Other Tools</h1>
+<ul>
+        <li>Python Development: PyCharm </li>
+        <li>Java Development: IntelliJ IDEA, Eclipse, NetBeans</li>
+        <li>JavaScript Development: Visual Studio </li>
+        <li>SQL/HTML: MySQL, SQLite, SQL Server</li>
+</ul>
+
+    <h1>🧠 Skills</h1>
+    <ul>
+        <li>Collaboration</li>
+        <li>Teamwork</li>
+        <li>Problem Solving</li>
+        <li>Critical Thinking</li>
+        <li>Communication</li>
+        <li>Adaptability</li>
+</ul>
 </html>
