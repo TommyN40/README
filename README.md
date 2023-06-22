@@ -14,11 +14,9 @@
     <p>Welcome to my portfolio, where I showcase my [projects](url).</p>
 
     <h1>🛠️ Tools</h1>
-    <ul>
         <li>C++ Development: Visual Studio, Xcode, Eclipse</li>
         <li>Version Control: Git, SVN</li>
         <li>Build Systems: CMake, Makefile</li>
         <li>Debugging: GDB, Visual Studio Debugger</li>
         <li>Testing: Google Test, Catch2</li>
         <li>IDEs: Visual Studio Code, CLion, Qt Creator</li>
-    </ul>
