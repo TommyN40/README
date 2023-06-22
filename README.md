@@ -20,7 +20,7 @@
 
             <h1>🛠️ Tools</h1>
     <p>
-        <li>C++ Development: Visual Studio, Xcode, Eclipse</li>
+        C++ Development: Visual Studio, Xcode, Eclipse
     </p>
 
 
