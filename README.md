@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
     <h1>🙋🏻‍♀️ Introducing Myself</h1>
     <p>
         I'm Tommy Nguyen, a skilled C++ developer with a strong focus on software engineering. As a C++ consultant at
@@ -24,3 +26,4 @@
         <li>Testing: Google Test, Catch2</li>
         <li>IDEs: Visual Studio Code, CLion, Qt Creator</li>
     </p>
+</html>
