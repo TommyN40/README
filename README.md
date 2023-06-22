@@ -12,6 +12,11 @@
         performance. With expertise in query optimization, database design, data modeling, and data analysis, I'm
         passionate about helping businesses make sense of their data.
     </p>
+        <h1>🙋🏻‍♀️ Introducing Myself</h1>
+    <p>
+        Welcome to my portfolio, where I showcase my <a href="url">projects</a>.
+
+    </p>
 
     <h2>📚 Projects</h2>
     <p>Welcome to my portfolio, where I showcase my <a href="url">projects</a>.</p>
