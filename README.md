@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title>Tommy Nguyen - C++ Developer</title>
-</head>
-
-<body>
     <h1>🙋🏻‍♀️ Introducing Myself</h1>
     <p>
         I'm Tommy Nguyen, a skilled C++ developer with a strong focus on software engineering. As a C++ consultant at
@@ -18,10 +10,10 @@
         passionate about helping businesses make sense of their data.
     </p>
 
-    <h2>📚 Projects</h2>
+    <h1>📚 Projects</12>
     <p>Welcome to my portfolio, where I showcase my [projects](url).</p>
 
-    <h2>🛠️ Tools</h2>
+    <h1>🛠️ Tools</h1>
     <ul>
         <li>C++ Development: Visual Studio, Xcode, Eclipse</li>
         <li>Version Control: Git, SVN</li>
@@ -30,6 +22,3 @@
         <li>Testing: Google Test, Catch2</li>
         <li>IDEs: Visual Studio Code, CLion, Qt Creator</li>
     </ul>
-</body>
-
-</html>
