@@ -18,12 +18,12 @@
 
 <h1>🛠️ Tools</h1>
 <ul>
-    <li>C++ Development: Visual Studio, Xcode, Eclipse</li>
-    <li>Version Control: Git, SVN</li>
+    <li>C++ Development: Visual Studio Code</li>
+    <li>Version Control: Git</li>
     <li>Build Systems: CMake, Makefile</li>
     <li>Debugging: GDB, Visual Studio Debugger</li>
-    <li>Testing: Google Test, Catch2</li>
-    <li>IDEs: Visual Studio Code, CLion, Qt Creator</li>
+    <li>Testing: Catch2</li>
+    <li>IDEs: Visual Studio Code, CLion</li>
 </ul>
 
 <h1>💻 Other Tools</h1>
