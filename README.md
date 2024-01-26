@@ -29,9 +29,9 @@
 <h1>💻 Other Tools</h1>
 <ul>
         <li>Python Development: PyCharm </li>
-        <li>Java Development: IntelliJ IDEA, Eclipse, NetBeans</li>
+        <li>Java Development: IntelliJ IDEA</li>
         <li>JavaScript Development: Visual Studio </li>
-        <li>SQL/HTML: MySQL, SQLite, SQL Server</li>
+        <li>SQL/HTML: MySQL</li>
 </ul>
 
 <h1>🧠 Skills</h1>
